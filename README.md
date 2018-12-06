@@ -21,11 +21,11 @@
 
 - Put(Id, Object):
 
-  - It will change old information to new information
+  - It will change old information to new information(Edit page)
 
 - Delete (Id):
 
-  - It will delete data that you do not need.
+  - It will delete data that you do not need(Delete page)
   
 
  My Link: http://comp2084-assignment2-api.azurewebsites.net/api/books
