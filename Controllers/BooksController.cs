@@ -66,18 +66,7 @@ namespace Bookstore_API.Controllers
             return NoContent();
         }
 
-        // DELETE: api/books/5
-        [HttpDelete("{id}")]
-        public ActionResult Delete(int id)
-        {
-            Book book = db.Books.Find(id);
-            if (book == null)
-            {
-                return NotFound();
-            }
-            db.Books.Remove(book);
-            db.SaveChanges();
-            return Ok();
+
         }
     }
 }
