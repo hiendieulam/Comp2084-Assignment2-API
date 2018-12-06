@@ -1,29 +1,31 @@
-Assignment 2 – Server-Side Scripting Function of this application:
+# Assignment 2 – Server-Side Scripting Function of this application:
 
-Create Web API Solution.
 
-Create Web API controllers with full Create-Read-Update-Delete functionality for both of the tables in database.
+-	Create Web API Solution.
 
-This application can help you change the web's information on API 
+-	Create Web API controllers with full Create-Read-Update-Delete functionality for both of the tables in database.
 
-Get() list:
+-	This application can help you change the web's information on API:
 
-Return list(Review page).
+- Get() list:
 
-Get(Id):
+  - Return list(Review page)
 
-Return Object(Details page)
+- Get(Id):
 
-Post(Object):
+  - Return Object(Details page)
 
-It will create object from Json(New create page)
+- Post(Object):
 
-Put(Id, Object):
+  - It will create object from Json(New create page)
 
-It will change old information to new information.
+- Put(Id, Object):
 
-Delete (Id):
+  - It will change old information to new information
 
-It will delete data that you do not need. 
+- Delete (Id):
+
+  - It will delete data that you do not need.
 
 My Link: http://comp2084-assignment2-api.azurewebsites.net/api/books
+
