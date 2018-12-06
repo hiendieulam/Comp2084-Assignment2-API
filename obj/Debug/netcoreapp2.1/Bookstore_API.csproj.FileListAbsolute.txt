@@ -1,0 +1,15 @@
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part3_HienLam\Bookstore_API\Bookstore_API\bin\Debug\netcoreapp2.1\Bookstore_API.deps.json
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part3_HienLam\Bookstore_API\Bookstore_API\bin\Debug\netcoreapp2.1\Bookstore_API.runtimeconfig.json
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part3_HienLam\Bookstore_API\Bookstore_API\bin\Debug\netcoreapp2.1\Bookstore_API.runtimeconfig.dev.json
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part3_HienLam\Bookstore_API\Bookstore_API\bin\Debug\netcoreapp2.1\Bookstore_API.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part3_HienLam\Bookstore_API\Bookstore_API\bin\Debug\netcoreapp2.1\Bookstore_API.pdb
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part3_HienLam\Bookstore_API\Bookstore_API\obj\Debug\netcoreapp2.1\Bookstore_API.csproj.CoreCompileInputs.cache
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part3_HienLam\Bookstore_API\Bookstore_API\obj\Debug\netcoreapp2.1\Bookstore_API.RazorAssemblyInfo.cache
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part3_HienLam\Bookstore_API\Bookstore_API\obj\Debug\netcoreapp2.1\Bookstore_API.RazorAssemblyInfo.cs
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part3_HienLam\Bookstore_API\Bookstore_API\obj\Debug\netcoreapp2.1\Bookstore_API.AssemblyInfoInputs.cache
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part3_HienLam\Bookstore_API\Bookstore_API\obj\Debug\netcoreapp2.1\Bookstore_API.AssemblyInfo.cs
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part3_HienLam\Bookstore_API\Bookstore_API\obj\Debug\netcoreapp2.1\Bookstore_API.RazorTargetAssemblyInfo.cache
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part3_HienLam\Bookstore_API\Bookstore_API\obj\Debug\netcoreapp2.1\Bookstore_API.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part3_HienLam\Bookstore_API\Bookstore_API\obj\Debug\netcoreapp2.1\Bookstore_API.pdb
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part3_HienLam\Bookstore_API\Bookstore_API\obj\Debug\netcoreapp2.1\Bookstore_API.csprojAssemblyReference.cache
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part3_HienLam\Bookstore_API\Bookstore_API\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs

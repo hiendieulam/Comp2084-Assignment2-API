@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Comp2084-Assignment2-API" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^Z:\\hienlam\ On\ My\ Mac\\Computer_Data\\HienLam\ Semester\ 3\\Projects\\Assignment2_Part3_HienLam\\Bookstore_API\\Bookstore_API\\obj\\Release\\netcoreapp2\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
