@@ -1,4 +1,5 @@
 Assignment 2 – Server-Side Scripting Function of this application:
+
 Create Web API Solution.
 
 Create Web API controllers with full Create-Read-Update-Delete functionality for both of the tables in database.
