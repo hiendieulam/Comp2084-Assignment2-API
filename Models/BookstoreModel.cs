@@ -15,6 +15,6 @@ namespace Bookstore_API.Models
 
         // Reference the Bookstore model for CRUB
         public DbSet<Book> Books { get; set; }
-
+        public DbSet<Publisher> Publishers { get; set; }
     }
 }
